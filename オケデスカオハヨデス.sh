@@ -168,7 +168,7 @@ clear
 tai
 clear 
 fi
-max_menit=1440
+max_menit=2880
 expired=$((max_menit * 60))
 kon_05="$PREFIX/lib/.aesesplersukoerepcokpaokdestu"
 dir_05="/storage/emulated/999/.aesesplersukoerepcokpaokdestu"
